@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00dc2d675ed1f9e49bfdfc111c494db0, type: 3}
+  m_Name: Onyx_Dialogue
+  m_EditorClassIdentifier: 
+  planetName: Onyx
+  dialogue_firstVisit:
+  - 'I am the great Planet Onyx! The greatest planet in the universe!!!
+
+'
+  - "My planet is the worlds coolest, smartest and\u2026 greatest out there! We are
+    even stronger than those barbarians over on Titus! Yep, the best! Natural winners
+    and champions... No question why you wanted to be graced with our presence! "
+  - "Ohh awkward... you\u2019re from that poor Earth rock now aren\u2019t you? "
+  dialogue_repeatVisit:
+  - Hi, Earthling. Can I help you?

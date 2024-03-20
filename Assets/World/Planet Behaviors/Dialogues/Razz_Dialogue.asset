@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00dc2d675ed1f9e49bfdfc111c494db0, type: 3}
+  m_Name: Razz_Dialogue
+  m_EditorClassIdentifier: 
+  planetName: Razz
+  dialogue_firstVisit:
+  - I am the great Razz! You must be pretty tough to approach my planet. Ah, are
+    you a space person? I regonize that ship of yours. Third time is the try hey?
+    Need a trade?
+  dialogue_repeatVisit:
+  - Hello again, brave one!

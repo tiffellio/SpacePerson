@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00dc2d675ed1f9e49bfdfc111c494db0, type: 3}
+  m_Name: Winter_Dialogue
+  m_EditorClassIdentifier: 
+  planetName: Winter
+  dialogue_firstVisit:
+  - "Oh, it\u2019s you\u2026 one of those space travellers... Meet the Winter planet\u2026.the
+    coldest planet in our solar system...\n"
+  - 'Our main sun has died and my citizens now live off of a smaller star. It is
+    very cold here. Those who are left here have lost hope from these extreme conditions.
+    I hear Earth is in trouble so we will consider a trade with you. Please do not
+    steal from us, it is too cold even for those space pirates to bother us. '
+  - Come to bargain over what little we have left?
+  dialogue_repeatVisit:
+  - Oh, it's you again. What is it?

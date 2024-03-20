@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00dc2d675ed1f9e49bfdfc111c494db0, type: 3}
+  m_Name: Titus_Dialogue
+  m_EditorClassIdentifier: 
+  planetName: Titus
+  dialogue_firstVisit:
+  - 'I am the mighty Titus!!!!!
+
+'
+  - '
+
+    My settlers are strong and valiant warriors of the galaxy. We are very
+    protective of our water, food, and trees and we are NOT afraid of that NASTY
+    Planet Skull. You have made it this far without becoming victim of those stupid
+    space pirates so we congratulate you! You must be a brave fighter!'
+  - What is it that you seek from us today? Will you consider our offer?
+  dialogue_repeatVisit:
+  - Hello, brave traveller!

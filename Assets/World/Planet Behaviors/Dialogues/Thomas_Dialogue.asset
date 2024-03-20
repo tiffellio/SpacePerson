@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00dc2d675ed1f9e49bfdfc111c494db0, type: 3}
+  m_Name: Thomas_Dialogue
+  m_EditorClassIdentifier: 
+  planetName: Thomas
+  dialogue_firstVisit:
+  - Ew! You call that hunk of metal a spaceship? OH, a space person. Earth still
+    hasn't gotten what they needed hey? I guess not everyone can be as amazing as
+    planet Thomas.
+  dialogue_repeatVisit:
+  - Hi, Earthling. Can I help you?

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 040698d7d86403c4180c6b068bca7f67, type: 3}
+  m_Name: HOME_Planet_Dialogue
+  m_EditorClassIdentifier: 
+  planetName: Home Planet Earth
+  dialogue:
+  - Come in SpacePerson 3, This is the President of the United World speaking, do
+    you read me? Over.
+  - "The whole reason we put you up in that shiny new space cruiser 3000 is we need
+    resources!  Earth\u2019s dying, and it\u2019s up to YOU to do something about
+    it."
+  - 'I order you to scour all of the known universe in search of power crystals,
+    fresh water, and food. '
+  - "Trade with other planets, or perhaps steal their resources if you\u2019re so
+    inclined, to get everything our planet needs to survive!"
+  - "Our top scientists have determined that 200 units of Crystals, 200 units of
+    Water, and 200 units of Trees will be enough to get the world\u2019s ecosystems
+    back in order..."
+  - AND, you only have 20 days to do it!
+  - "In case you run into trouble,  use your onboard laser cannons, press the \u201Cspacebar\u201D.
+    Flying is done using the arrow keys. "
+  - Good luck SpacePerson 3, your planet is counting on you!
+  defaultIntro: Have you returned with good news?

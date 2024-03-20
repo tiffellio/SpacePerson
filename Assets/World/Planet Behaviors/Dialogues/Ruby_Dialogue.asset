@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00dc2d675ed1f9e49bfdfc111c494db0, type: 3}
+  m_Name: Ruby_Dialogue
+  m_EditorClassIdentifier: 
+  planetName: Ruby
+  dialogue_firstVisit:
+  - 'Hello there Earthling, may you be blessed by my royal presence. Though I should
+    not require introduction, I am your majesty, Planet Ruby!
+
+'
+  - "My planet rules by a Monarchy system with Queen Ruby. Containing many of the
+    riches from the galaxy\u2026. We are a well-mannered, classic society of people
+    of the highest sophistication, well-educated in the fine arts!"
+  - Now we did not get to where we are from giving hand-outs like a charity to the
+    likes of yours. But I guess you came here this far.. Are you looking for a trade?
+  dialogue_repeatVisit:
+  - Hello again, Earthling!

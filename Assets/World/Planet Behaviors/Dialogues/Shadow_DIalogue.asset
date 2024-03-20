@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00dc2d675ed1f9e49bfdfc111c494db0, type: 3}
+  m_Name: Shadow_DIalogue
+  m_EditorClassIdentifier: 
+  planetName: Shadow
+  dialogue_firstVisit:
+  - Welcome to the shadow planet! How did you find us? We are the darkest planet
+    in the area... no sun in sight. Water, plants and any type of food is gathered
+    from other planets through business deals. Would you like to make a deal with
+    us space traveller?
+  dialogue_repeatVisit:
+  - Oh, it's you again. What is it?

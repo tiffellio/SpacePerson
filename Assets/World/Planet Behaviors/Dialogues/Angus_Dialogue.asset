@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00dc2d675ed1f9e49bfdfc111c494db0, type: 3}
+  m_Name: Angus_Dialogue
+  m_EditorClassIdentifier: 
+  planetName: Angus
+  dialogue_firstVisit:
+  - Yeehaw! Well, just look at you!
+  - "Listen you better get outta here quick - we ain\u2019t lookin\u2019 for trouble
+    from none of them space pirates - hey just 'cause trouble comes visiting doesn't
+    mean you have to offer it a place to sit down. But boy looks like your Space
+    people 1s and 2s sure were! Lettin' the cat outta the bag is a whole lot easier
+    than puttin' it back is what I always say!"
+  - Now are you looking to bargain with us? I heard them rumours about Earth not
+    doing so good, but every trail has puddles, son - Want to make a trade?
+  dialogue_repeatVisit:
+  - Howdy, partner!
