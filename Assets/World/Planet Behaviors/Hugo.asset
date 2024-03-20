@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1342c701465c3f46b1a9a601437dc70, type: 3}
+  m_Name: Hugo
+  m_EditorClassIdentifier: 
+  dialogueSet: {fileID: 11400000, guid: 1248f8a028d124010b13a02d5fe34cd1, type: 2}
+  requiredResourse: 2
+  requiredAmount: 20
+  offeredResourse: 1
+  offeredAmount: 50
